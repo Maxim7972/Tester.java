@@ -46,7 +46,7 @@ public class Tester {
 
 
     public static void printStaticInfo() {
-        System.out.println("Hello,World!Name.");
+        System.out.println("привет ,мир!имя.");
     }
     @Override
     public  String toString (){
